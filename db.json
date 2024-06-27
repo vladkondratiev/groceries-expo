@@ -1,0 +1,39 @@
+{
+  "groceries": [
+    {
+      "id": "d42c",
+      "title": "Still Water",
+      "amount": "10",
+      "unit": "L",
+      "isChecked": false
+    },
+    {
+      "id": "961e",
+      "unit": "Pcs",
+      "amount": 2,
+      "title": "Bananas",
+      "isChecked": false
+    },
+    {
+      "id": "346c",
+      "unit": "g",
+      "amount": 200,
+      "title": "Nuts",
+      "isChecked": true
+    },
+    {
+      "id": "39a9",
+      "unit": "kg",
+      "amount": 1,
+      "title": "Tomatoes",
+      "isChecked": true
+    },
+    {
+      "id": "59fc",
+      "unit": "L",
+      "amount": 1,
+      "title": "Olive oil",
+      "isChecked": true
+    }
+  ]
+}
